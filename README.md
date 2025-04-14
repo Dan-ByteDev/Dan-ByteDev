@@ -2,4 +2,4 @@
 
 I'm Dan, a Computer Science Graduate.
 
-I also have a [personal GitHub profile](https://git-dand.github.io/).
+I also have a [personal GitHub profile](https://github.com/Git-DanD).
